@@ -1,0 +1,6 @@
+Name: Emrul
+Email: emrulminhaz@gmail.com
+Gender: Other
+Degree: HSC
+Blood Group: A+
+Date of Birth: 1998-10-19
